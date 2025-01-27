@@ -1,16 +1,27 @@
-## Hi there 👋
+## Welcome! I'm Lois. 👋
 
-<!--
-**joislohnson/joislohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I'm an applied epidemiologist and data scientist. In my current role, I provide technical assistance and data capacity building support to current and future members of the public health workforce across North Carolina.
 
-Here are some ideas to get you started:
+### Skills
+While I can work in many languages, including R, Python, SAS, Stata, and more... you'll most often find me using (and shamelessly promoting) R! I love using R, R Shiny, and Quarto to transform, analyze, and visualize data. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### A few things I regularly do:
+- 🪄 Pull and wrangle publicly accessible secondary data in R
+- 🧹 Clean and analyze primary survey data in R
+- 💻 Build and maintain R Shiny dashboards
+- 📝 Develop interactive reports using Quarto
+
+#### A few things previous roles have given me the opportunity to do:
+- 🔎 Monitor trends in public health surveillance data
+- 🔗 Conduct probablistic data linkages
+- 🧠 Research young adult engagement in alcohol consumption harm reduction strategies
+- 🦋 Transform ecological momentary assessment data
+- 💵 Build robust optimization models to facilitate local data-driven decisions for HIV funding
+
+### Ways to Connect
+- [Personal Website](loisaj.com)
+- [Email](mailto:lois.c.johnson+github@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/loiscjohnson/)
+- [Bluesky](https://bsky.app/profile/lois-aj.bsky.social) 
+
