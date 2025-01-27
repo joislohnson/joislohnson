@@ -20,7 +20,7 @@ While I can work in many languages, including R, Python, SAS, Stata, and more...
 - 💵 Build robust optimization models to facilitate local data-driven decisions for HIV funding
 
 ### Ways to Connect
-- [Personal Website](www.loisaj.com)
+- [Personal Website](https://loisaj.com/)
 - [Email](mailto:lois.c.johnson+github@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/loiscjohnson/)
 - [Bluesky](https://bsky.app/profile/lois-aj.bsky.social) 
