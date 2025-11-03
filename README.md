@@ -1,7 +1,7 @@
 ## Welcome! I'm Lois. 👋
 
 ### About Me
-I'm an applied epidemiologist and data scientist. In my current role, I provide technical assistance and data capacity building support to current and future members of the public health workforce across North Carolina.
+I'm a political data scientist with a unique blend of engineering, statistics, and epidemiology expertise.
 
 ### Skills
 While I can work in many languages, including R, Python, SAS, Stata, and more... you'll most often find me using (and shamelessly promoting) R! I love using R, Shiny, and Quarto to transform, analyze, and visualize data. 
